@@ -27,7 +27,7 @@ x-amz-server-side-encryption: aws:kms
 
 ### Скриншоты
 
-![Задание 3](screenshots/task3.png)
+![Задание 3](https://github.com/Dun9Dev/clopro-hw3/blob/main/img/Screenshot_20260409_210911.png)
 
 ### Файлы конфигурации
 
